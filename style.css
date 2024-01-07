@@ -225,3 +225,8 @@ footer{
     border: 0;
     width: 100%;
 }
+
+.copy-right{  
+  text-align: right;
+ color: #757575;
+}
